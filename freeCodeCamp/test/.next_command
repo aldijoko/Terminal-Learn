@@ -33,3 +33,5 @@ ls --color=auto
 cd website
 cd ./website
 cd ../../..
+cd images/
+ls --color=auto
