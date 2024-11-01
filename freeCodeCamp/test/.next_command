@@ -117,3 +117,4 @@ ls --color=auto
 cp --help
 cp -r toms-website
 cp -r website-boilerplate toms-website
+ls --color=auto
