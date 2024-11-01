@@ -15,3 +15,21 @@ cd assets/
 mkdir images
 cd images/
 touch background.jpg
+cd ..
+cd ..
+cd ..
+ls --color=auto
+mv iamges client/assets
+mv images client/assets
+cd images
+ls --color=auto
+mv background.jpg client/assets/images
+find
+cd ..
+cd client/assets/
+ls --color=auto
+cd images/
+ls --color=auto
+cd website
+cd ./website
+cd ../../..
