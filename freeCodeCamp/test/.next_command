@@ -1,0 +1,10 @@
+find -src name
+find src -name
+find -name client/src
+find -wholename client/src
+find name src
+find -name
+find --name src
+find -name -src
+cd ..
+find -name src
