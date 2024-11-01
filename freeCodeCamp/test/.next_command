@@ -91,3 +91,11 @@ ls --color=auto
 echo Yay!
 echo I finished the boilerplate!
 echo one more thing...
+echo I made this boilerplate README.md
+ls --color=auto
+echo I made this boilerplae >> README.md
+ls --color=auto
+echo "I made this boilerplate" >> README.md
+echo I made this boilerplae >> README.md
+ls --color=auto
+echo I made this boilerplate >> README.md
