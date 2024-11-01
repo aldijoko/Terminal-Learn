@@ -100,3 +100,9 @@ echo I made this boilerplae >> README.md
 ls --color=auto
 echo I made this boilerplate >> README.md
 more README.md
+echo I made this boilerplate 2 >> README.md
+echo I made this boilerplate 2 >> README.md
+echo I made this boilerplate >> README.md
+echo testing >> README.md
+more README.md
+echo from the command line >> README.md
