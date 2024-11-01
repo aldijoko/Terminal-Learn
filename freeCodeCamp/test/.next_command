@@ -59,3 +59,4 @@ ls --color=auto
 find
 ls --color=auto
 mv CodeAlly.svg client/assets/icons/
+find
